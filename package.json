@@ -1,0 +1,10 @@
+{
+  "name": "botengine-wrapper",
+  "version": "1.0.0",
+  "description": "a (simple) wrapper for sending media and text for webhook responses for bots built with chatbot.com(botengine)",
+  "main": "index.js",
+  "repository": "https://github.com/fantasylabs/botengine-wrapper",
+  "author": "Ayomide Onigbinde",
+  "license": "Apache 2.0",
+  "private": false
+}
